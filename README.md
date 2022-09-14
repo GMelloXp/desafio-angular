@@ -1,0 +1,1 @@
+Este é um desafio proposto pelo meu amigo Lucas Santos onde eu teria que recriar o projeto que ele me mandou como desafio. O projeto original foi feito em Angular, porém este que fiz foi utilizando Html, Css + bootstrap pois foi apenas a parte visual.
